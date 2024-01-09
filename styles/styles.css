@@ -1,0 +1,107 @@
+/* header section */
+
+#firstcontainer {
+  text-align: center;
+
+  background-repeat: no-repeat;
+
+
+  border-radius: 16px;
+
+}
+
+
+
+
+
+#text1 {
+  font-size: 35px;
+  font-family: Merriweather;
+  color: #FFF;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-30%, -50%);
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+
+}
+
+#text2 {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-45%, -50%);
+  font-size: 72px;
+  font-family: Merriweather;
+  width: 632px;
+  font-weight: 900;
+  color: #FFF;
+  text-align: center;
+
+
+}
+
+/* 2nd cointainer */
+
+#sixty {
+  position: absolute;
+  top: 80%;
+  left: 55%;
+  transform: translate(-80%, -55%);
+  color: #F00;
+
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  width: 383px;
+  height: 107px;
+
+}
+
+#our {
+  width: 397px;
+  height: 29px;
+  position: absolute;
+  top: 90%;
+  left: 58%;
+
+  transform: translate(-90%, -58%);
+  color: #F00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+#all {
+  text-align: center;
+  position: absolute;
+  top: 100%;
+  left: 60%;
+  transform: translate(-100%, -60%);
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+  #newyear{
+
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin-top: 460px;
+    margin-left: 460px;
+
+}
